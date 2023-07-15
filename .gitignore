@@ -1,0 +1,12 @@
+**/*.log
+
+**/*.idea
+*.pyc
+__pycache__/
+*.swp
+**/*.env
+
+pip-log.txt
+pip-delete-this-directory.txt
+**/Pipfile.lock
+/venv/
