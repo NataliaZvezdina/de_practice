@@ -8,10 +8,10 @@ and _flights_.
 
 ### Tasks
 
-1. Build the summary table showing top 10 flights by flight code (`TAIL_NUMBER`) and number of departures at all times.
+1. Build the summary table showing top 10 aircraft (`TAIL_NUMBER`) by number of departures at all times.
 
 
-2. Find the top 10 flights (`ORIGIN_AIRPORT`, `DESTINATION_AIRPORT`) by number of flights, as well as calculate 
+2. Find the top 10 air routs (`ORIGIN_AIRPORT`, `DESTINATION_AIRPORT`) by number of flights, as well as calculate 
 the average flight time (`AIR_TIME`).
 
 
